@@ -1,0 +1,151 @@
+body{
+    background: url(black-brick-wall-textured-background.jpg);
+}
+body h1{
+    text-align: left;
+    margin-right: 15em;
+    font-size: 30px;
+    padding-top: 1rem; 
+    color: white; 
+    height: 70px;}
+
+.caixa{
+    width: 940px; 
+    position: relative; 
+    margin: 0 auto;}
+
+body nav{
+    top: 1.0em; 
+    right: 0px; 
+    position: absolute;
+    box-sizing: border-box;
+    border: white 1.5px solid;
+    border-radius: 10px;
+    padding: 5px 5px 5px 5px;
+    
+}
+nav li {
+    
+    display: inline; 
+    margin: 0px 0px 0px 15px; 
+    box-sizing: border-box;}
+    
+nav li:hover a{
+    color: #C78C19;
+    font-size: 22px;
+}
+    
+
+nav a {
+    
+    text-transform: uppercase; 
+    color: white; 
+    font-weight: bold;
+    font-size: 17px; 
+    text-decoration: none;   
+}
+
+nav a:hover {
+    color: #C78C19;
+    text-decoration: underline;
+}
+main h2{
+    color: white;
+    font-size: 2em;
+    text-align: center;
+    font-style: arial;
+    padding-top: 1.5%;
+    padding-bottom: 2%;
+
+}
+
+.capa{
+    width: 28%;
+    margin-top: 1.5em;
+    display: inline;
+    margin-left: 8em;
+
+}
+.estrela{
+    color: white;
+    vertical-align: top;
+    display: inline-block;
+    line-height: 3.8em;
+    padding-left: 2em;
+}
+li a{
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+}
+li a:hover{
+    color:#C78C19;
+    text-decoration: underline;
+    font-size: 22px;
+
+}
+
+body h3{
+    color: white;
+    font-size: 2.5em;
+    text-align: center;
+    margin: 2.5em 0em 2.5em 0em;
+}
+
+body p {
+    color: white;
+    line-height: 1.5em;
+    font-size: 1em;
+    text-align: justify;
+}
+body h4{
+    text-align: center;
+    color: white;
+    font-size: 2.5em ;
+    margin: 2em 1em 1em 1em;
+}
+.thiago{
+    width: 45%;
+    margin: 5% 5% 5% 25%;
+}
+
+footer {
+    background:  #191923;
+    color: white;
+}
+                
+footer p {
+    text-align: center; 
+    margin-top: 2em;
+    padding-bottom: 1em;    
+}
+                
+.ico-insta{
+    width: 3em;
+    padding-left: 44%;
+    margin-top: 2em;
+}
+.ico-face{
+    width: 2em;
+    padding-left: 3em;
+    margin-right: 35%;
+} 
+footer p{
+    text-transform: uppercase;
+}
+.lista1{
+    display: inline-block;
+    line-height: 2;
+    
+}          
+.lista2{
+    display: inline-block;
+    padding-left: 15%;
+    line-height: 2;
+}
+.lista3{
+    display: inline-block;
+    padding-left: 15%;
+    line-height: 2;
+                }
+

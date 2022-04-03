@@ -1,0 +1,159 @@
+body{
+    background: url(black-brick-wall-textured-background.jpg);
+ 
+}
+
+h1 {
+        padding-top: 2%;
+        padding-left: 33%;
+        font-size: 40px; 
+        color: white; 
+        height: 70px;
+    }
+li a  { text-decoration: none;
+    
+}
+
+
+p {
+        text-align: justify ;
+        font-style: normal; 
+        font:15px; 
+        padding-bottom: 3%;
+    }
+
+
+
+
+
+#clube{
+            width: 400px; 
+            margin-left: 125px;
+        }
+
+.caixa{
+            width: 940px; 
+            position: relative; 
+            margin: 0 auto;
+        }
+
+.caixa2{    
+            width: 940px;
+            margin: 0 auto;
+        }
+
+ nav     {   
+            top: 15px; 
+            right: 0px; 
+            position: absolute;
+            box-sizing: border-box;
+            border: white 1.5px solid;
+            border-radius: 10px;
+            
+        }
+
+nav li {    
+            display: inline; 
+            margin: 0px 0px 0px 15px; 
+            box-sizing: border-box;}
+
+nav a   {   
+            text-transform: uppercase; 
+            color: white; 
+            font-weight: bold;
+            font-size: 17px; 
+            text-decoration: none;
+        }
+
+nav a:hover {
+                color: #C78C19;
+                text-decoration: underline;
+            }
+nav li:hover a{
+                color: #C78C19;
+                font-size: 22px;
+                }
+
+
+.livros {   
+            width: 940px; 
+            margin: 0 auto; 
+            padding: 3%; 
+            box-sizing: border-box;
+        }
+
+.livros li {    
+    
+                display: inline-block; 
+                text-align: center; 
+                width: 30%; 
+                vertical-align: top;
+                margin: 2% 1.5%;
+                padding: 10px;
+                box-sizing: border-box;
+                border: white 2px solid;
+                border-radius: 20px;
+                
+                
+                
+            } 
+
+.livros li:hover {
+                    border-color: #C78C19;
+                   
+                 }
+
+.livros li:hover h2{
+                    color: #C78C19;
+                    font-size: 19px;
+                    }
+
+.livros li:active  { 
+                     border-color: white;
+                    }
+
+.livros h2 {    
+                
+                text-transform: uppercase;
+                font-weight: bold;
+                padding-bottom: 10%; 
+                padding-top: 6%; 
+                color: white;
+            }
+.livros h2:hover{
+    color: #C78C19;
+    text-decoration: underline;
+}
+
+footer {
+    background:  #191923;
+    color: white;
+}
+                
+footer p {
+    text-align: center; 
+    margin-top: 2em;
+    padding-bottom: 1em;    
+}
+                
+.ico-insta{
+    width: 3em;
+    padding-left: 44%;
+    margin-top: 2em;
+}
+.ico-face{
+    width: 2em;
+    padding-left: 3em;
+    margin-right: 35%;
+} 
+              
+.lista2{
+    display: inline-block;
+    padding-left: 20%;
+    line-height: 2;
+}
+.lista3{
+    display: inline-block;
+    padding-left: 20%;
+    line-height: 2;
+                }
